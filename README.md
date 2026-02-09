@@ -66,7 +66,9 @@ Data_Preprocessor/
 └── requirements.txt
 ```
 
-##Запуск
+## Запуск
+```text
 pip install -r requirements.txt
 python -m pytest tests/
 jupyter lab demo/demo.ipynb
+```
