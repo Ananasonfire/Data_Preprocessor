@@ -1,0 +1,17 @@
+# Виртуальное окружение
+venv/
+
+# Кэш и артефакты Python
+__pycache__/
+*.py[cod]
+
+# Кэш pytest и coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Служебные файлы Jupyter
+.ipynb_checkpoints/
+
+# Логи
+*.log
